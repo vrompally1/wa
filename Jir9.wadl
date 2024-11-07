@@ -11,6 +11,7 @@
             base="http://example.com:8080/jira/rest/"><ns2:resource
                 path="api/2/issuetypescheme"><ns2:doc><![CDATA[Resource for managing issue type schemes and their project associations.
 
+
   <p>
       An issue type scheme is a named, ordered collection of issue types that is associated with 0..n projects.
       The contents of the associated issue type scheme determine which issue types are available to a project.
